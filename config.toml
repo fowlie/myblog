@@ -1,4 +1,4 @@
-baseURL = "https://festive-hugle-33d2a4.netlify.com"
+baseURL = "https://festive-hugle-33d2a4.netlify.com/"
 languageCode = "en-us"
 title = "Fowlie's blog"
 theme = "hyde-hyde"
